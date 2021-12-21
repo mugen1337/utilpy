@@ -11,3 +11,7 @@ def read(path):
         li = [int(s.strip()) for s in f.readlines()]
 
     print(li)
+
+    
+# TODO : https://note.nkmk.me/python-csv-reader-writer/
+
